@@ -54,7 +54,6 @@ button {
 #resultado {
     max-width: 250px;
     overflow-x: auto;
-    font-family: 'Digital-7 Mono', sans-serif;
     text-align: right;
     font-size: 50px;
     height: 100px;
